@@ -1,6 +1,6 @@
 - 👋 Hi, I’m AKASHPRABHU
-- 👀 I’m interested in WebDevelopment
-- 🌱 I’m currently learning React,Node Js
+- 👀 I’m interested in  Front-end Development
+- 🌱 I’m currently learning MERN Stack Development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me akashprabhuganesamoorthy@gmail.com
 
