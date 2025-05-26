@@ -1,6 +1,7 @@
 - 👋 Hi, I’m AKASHPRABHU
 - 👀 I’m interested in  Front-end Development
-- 🌱 I’m currently learning MERN Stack Development
+- 🌱 I’m a  MERN Stack Developer
+-  Currently I'm Learning Flutter Application 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me akashprabhuganesamoorthy@gmail.com
 
